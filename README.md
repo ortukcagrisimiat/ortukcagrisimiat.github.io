@@ -1,1 +1,2 @@
-# ortukcagrisimiat.github.io
+# ortukcagrisimiat.github.io 
+Örtük çağrışım
